@@ -34,4 +34,3 @@ UHDAP - en2.bsa
 UHDAP - en3.bsa
 UHDAP - en4.bsa
 UHDAP - MusicHQ.bsa
-ccbgssse014-spellpack01.bsa
