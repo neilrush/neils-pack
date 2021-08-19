@@ -7,9 +7,9 @@ My personal wabbajack mod pack. A lightweight UI and bugfix modpack with improve
   * Run skyrim at least once to generate your graphics settings.
   
 ## Installation
-  1. Download the [Wabbajack Tool](https://github.com/wabbajack-tools/wabbajack/releases/download/latest/Wabbajack.exe).
+  1. Download the [Wabbajack Tool](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
   2. Place `Wabbajack.exe` in a new folder. Note: Wabbajack wont run in `/downloads`.
-  3. Download the [latest pack](https://github.com/neilrush/universal_pincome/releases/download/latest/Neils_Pack.wabbajack).
+  3. Download the [latest pack](https://github.com/neilrush/universal_pincome/releases/latest/download/Neils_Pack.wabbajack).
   4. Create a folder where you want to install the pack. You will need about 70GB of space.
   5. Run `Wabbajack.exe`.
       1. Select install from disk.
@@ -43,4 +43,4 @@ My personal wabbajack mod pack. A lightweight UI and bugfix modpack with improve
   8. Enjoy Skyrim 🎉🎉🎉
   
 ## Mod List
-  You can view the modlist using Wabbajack's tool by uploading [Neil's Pack.wabbajack.manifest.json](https://github.com/neilrush/universal_pincome/releases/download/latest/Neils_Pack.wabbajack.manifest.json) to [here](https://www.wabbajack.org/#/modlists/manifest)
+  You can view the modlist using Wabbajack's tool by uploading [Neil's Pack.wabbajack.manifest.json](https://github.com/neilrush/universal_pincome/releases/latest/download/Neils_Pack.wabbajack.manifest.json) to [here](https://www.wabbajack.org/#/modlists/manifest)
