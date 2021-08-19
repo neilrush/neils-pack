@@ -9,14 +9,16 @@ My personal wabbajack mod pack. A lightweight UI and bugfix modpack with improve
 ## Installation
   1. Download the [Wabbajack Tool](https://github.com/wabbajack-tools/wabbajack/releases/download/latest/Wabbajack.exe).
   2. Place `Wabbajack.exe` in a new folder. Note: Wabbajack wont run in `/downloads`.
-  3. Download the [latest pack](https://github.com/neilrush/universal_pincome/releases/download/latest/Neil's%20Pack.wabbajack).
+  3. Download the [latest pack](https://github.com/neilrush/universal_pincome/releases/download/latest/Neils_Pack.wabbajack).
   4. Create a folder where you want to install the pack. You will need about 70GB of space.
   5. Run `Wabbajack.exe`.
       1. Select install from disk.
       2. Select `Neil's Pack.wabbajack` from your download directory as your target modlist
       3. Select the install folder you created. Note: the download location will be set for you.
       4. Click the play button to begin the install.
-        ![image](https://user-images.githubusercontent.com/31221793/130004797-b49b26e1-4fb0-4bfc-bb3c-d805b5dd2f1a.png)
+  
+  ![image](https://user-images.githubusercontent.com/31221793/130004797-b49b26e1-4fb0-4bfc-bb3c-d805b5dd2f1a.png)
+  
   6. The installation will begin 🎉🎉🎉. 
   7. Go have a cup of coffee this will take quite a while. (The basecoat mod will take the longest)
   
@@ -24,16 +26,21 @@ My personal wabbajack mod pack. A lightweight UI and bugfix modpack with improve
   1. Navigate to your installation folder
   2. find and launch `ModOrganizer.exe`
   3. In the top right make sure SKSE is selected in the drop down and click `Shortcut` -> `Desktop`
-        ![image](https://user-images.githubusercontent.com/31221793/130007243-72be1feb-7d72-421d-8db7-4d670d0aaa1b.png)
+  
+  ![image](https://user-images.githubusercontent.com/31221793/130007243-72be1feb-7d72-421d-8db7-4d670d0aaa1b.png)
+  
   4. You can now launch the game from the shortcut on the desktop.
-  5. If you are prompted to update your installation path in the registry, click yes and approve any UAC prompts that follow.
-        ![image](https://user-images.githubusercontent.com/31221793/130007783-71eb0504-909b-4282-adef-19fedca395fc.png)
-  6. After creating a new save and customizing your character there are some MCM settings I reccomend. 
+  5. If you are prompted to update your installation path in the registry, click yes.
+  6. Approve any UAC prompts that follow.
+  
+  ![image](https://user-images.githubusercontent.com/31221793/130007783-71eb0504-909b-4282-adef-19fedca395fc.png)
+  
+  7. After creating a new save and customizing your character there are some MCM settings I reccomend. 
       1. Press `ESC` and click `Mod Configuration`
       2. Goto `moreHUD` -> `Presets` and click `Load User Settings` under FISS
       3. This will load my preset for moreHUD.
       4. I also recommend setting your sprint key to shift in controls.
-  7. Enjoy Skyrim 🎉🎉🎉
+  8. Enjoy Skyrim 🎉🎉🎉
   
 ## Mod List
-  You can view the modlist using Wabbajack's tool by uploading [Neil's Pack.wabbajack.manifest.json](https://github.com/neilrush/universal_pincome/releases/download/latest/Neil's%20Pack.wabbajack.manifest.json) to [here](https://www.wabbajack.org/#/modlists/manifest)
+  You can view the modlist using Wabbajack's tool by uploading [Neil's Pack.wabbajack.manifest.json](https://github.com/neilrush/universal_pincome/releases/download/latest/Neils_Pack.wabbajack.manifest.json) to [here](https://www.wabbajack.org/#/modlists/manifest)
