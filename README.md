@@ -13,7 +13,7 @@ My personal wabbajack mod pack. A lightweight UI and bugfix modpack with improve
   4. Create a folder where you want to install the pack. You will need about 70GB of space.
   5. Run `Wabbajack.exe`.
       1. Select install from disk.
-      2. Select `Neil's Pack.wabbajack` from your download directory as your target modlist
+      2. Select `Neils_Pack.wabbajack` from your download directory as your target modlist
       3. Select the install folder you created. Note: the download location will be set for you.
       4. Click the play button to begin the install.
   
@@ -43,4 +43,4 @@ My personal wabbajack mod pack. A lightweight UI and bugfix modpack with improve
   8. Enjoy Skyrim 🎉🎉🎉
   
 ## Mod List
-  You can view the modlist using Wabbajack's tool by uploading [Neil's Pack.wabbajack.manifest.json](https://github.com/neilrush/neils-pack/releases/latest/download/Neils_Pack.wabbajack.manifest.json) to [here](https://www.wabbajack.org/#/modlists/manifest)
+  You can view the modlist using Wabbajack's tool by uploading [Neils_Pack.wabbajack.manifest.json](https://github.com/neilrush/neils-pack/releases/latest/download/Neils_Pack.wabbajack.manifest.json) to [here](https://www.wabbajack.org/#/modlists/manifest)
