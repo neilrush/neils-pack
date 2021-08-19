@@ -118,7 +118,7 @@
 +SKSE-64 Scripts
 -Script Extenders_separator
 +Cleaned Master Files
+-Base Install_separator
 *DLC: Dawnguard
 *DLC: Dragonborn
 *DLC: HearthFires
--Base Install_separator

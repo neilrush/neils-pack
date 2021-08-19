@@ -4,7 +4,6 @@ Update.esm
 Dawnguard.esm
 HearthFires.esm
 Dragonborn.esm
-ccbgssse014-spellpack01.esl
 Unofficial Skyrim Special Edition Patch.esp
 UHDAP - MusicHQ.esp
 UHDAP - en0.esp
